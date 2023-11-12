@@ -1,0 +1,75 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=512;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0    :   142606338;
+	1    :   134742016;
+	2    :   16777320;
+	3    :   152567804;
+	4    :   9437185;
+	5    :   159383657;
+	6    :   2576875524;
+	7    :   160956418;
+	8    :   60817405;
+	9    :   3489660928;
+	10   :   2609905666;
+	11   :   150994949;
+	12   :   159907842;
+	13   :   428965888;
+	14   :   1673003010;
+	15   :   2344091648;
+	16   :   2478309376;
+	17   :   1807220751;
+	18   :   1351090176;
+	19   :   1938292764;
+	20   :   1136132096;
+	21   :   957874176;
+	22   :   285212754;
+	23   :   1494220800;
+	24   :   823656448;
+	25   :   680558592;
+	26   :   294125664;
+	27   :   563183616;
+	28   :   1217396736;
+	29   :   167772166;
+	30   :   176160818;
+	31   :   2057306112;
+	32   :   3279945728;
+	33   :   3405774848;
+	34   :   2191523840;
+	35   :   203948031;
+	36   :   212860909;
+	37   :   221249536;
+	38   :   230162432;
+	39   :   2902458368;
+	40   :   3623878656;
+	[41..81]  :   0;
+	82   :   38;
+	[83..103]  :   0;
+	104  :   85;
+	[105..299]  :   0;
+	300  :   516227072;
+	301  :   642613248;
+	302  :   653131776;
+	303  :   2810183680;
+	[304..511]  :   0;
+END;
